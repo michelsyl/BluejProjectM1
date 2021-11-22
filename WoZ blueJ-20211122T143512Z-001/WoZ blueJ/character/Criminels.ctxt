@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Criminels
+comment1.params=name\ posx\ posy
+comment1.target=Criminels(java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructeur\n\ @param\ name\n
+comment2.params=enigma
+comment2.target=void\ createEnigma(Enigma)
+comment2.text=\n\n\ @param\ enigma\n
+comment3.params=
+comment3.target=void\ setCoins()
+comment3.text=\n\n
+comment4.params=
+comment4.target=void\ giveEnigma()
+comment4.text=\n\n
+comment5.params=player
+comment5.target=void\ attaque(Player)
+comment5.text=\n\n\ @param\ player\n
+comment6.params=player
+comment6.target=void\ giveCoins(Player)
+comment6.text=\n\n\ @param\ player\n
+numComments=7

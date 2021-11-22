@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enigma
+comment1.params=answer\ question
+comment1.target=Enigma(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructeur\n\ @param\ answer\n\ @param\ question\n
+comment2.params=answer\ criminel\ player
+comment2.target=void\ giveAnswer(java.lang.String,\ Criminels,\ Player)
+comment2.text=\n\ Test\ si\ la\ reponse\ propos\u00E9e\ est\ la\ bonne\ r\u00E9ponse\n\ @param\ answer\n
+comment3.params=answer
+comment3.target=java.lang.String\ regex(java.lang.String)
+comment3.text=\n\ Modifie\ la\ r\u00E9ponse\ donn\u00E9e\ afin\ de\ ne\ pas\ avoir\ d'erreurs\ sur\ des\ majuscules\ ou\ des\ accents.\n\ @param\ answer\n\ @return\ answer\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=Clues\ giveClues()
+comment5.text=\n\n\ @return\ Clues\n
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=lock\ position
+comment1.target=Door(boolean,\ java.lang.String)
+comment1.text=\n\ Constructeur\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ tracer\ la\ porte\ dans\ la\ zone\ de\ jeu\n\ @param\ g\n
+numComments=3

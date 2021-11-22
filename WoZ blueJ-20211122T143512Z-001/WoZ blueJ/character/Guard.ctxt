@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Guard
+comment1.params=name\ posx\ posy
+comment1.target=Guard(java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructeur\n\ @param\ name\n
+numComments=2

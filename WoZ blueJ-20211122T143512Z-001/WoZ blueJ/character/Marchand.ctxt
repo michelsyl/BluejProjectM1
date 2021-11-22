@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Marchand
+comment1.params=name\ posx\ posy
+comment1.target=Marchand(java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructeur\n\ @param\ name\n
+comment2.params=nb
+comment2.target=Item.Item\ buyItem(int)
+comment2.text=\n\ @param\ nb\ est\ le\ nombre\ correspond\ \u00E0\ l'item\ achet\u00E9\ par\ le\ player\n\ @return\ Items\n
+numComments=3

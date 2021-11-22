@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=name\ nbDoor\ posxSalle\ posySalle
+comment1.target=Room(java.lang.String,\ int,\ int,\ int)
+comment1.text=\n\ Constructeur\n\ @param\ name\n
+comment2.params=
+comment2.target=void\ createDoor()
+comment2.text=\n\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\n\ tracer\ la\ salle\ dans\ la\ zone\ de\ jeu\n\ @param\ g\n
+numComments=4
